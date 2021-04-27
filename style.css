@@ -1,0 +1,40 @@
+.header{
+  background-color: rgb(221, 243, 161);
+  padding: 10px;
+  text-align: center;
+  color: darkred;
+  font-family: sans-serif;
+}
+
+
+.grid{
+    border: 2px solid rgb(166, 245, 245);
+    margin: 10px;
+    text-align: center;
+
+}
+
+.origami{
+    background-color :#f1f1f1;
+    padding: 20px;
+    float: inline-end;
+    display : flexbox;
+    color:maroon;
+    font-family: cursive;
+}
+
+.about{
+    position: fixed;
+}
+
+.centered {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: ivory;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+
+  }
+  
